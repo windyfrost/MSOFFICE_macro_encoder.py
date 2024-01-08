@@ -2,7 +2,8 @@
 This script is intentionally crafted with the sole purpose of automating and tackling one of the exercises in PWK-200, Leveraging Microsoft Word Macros. 
 
 Created by windyforce, on 6th November 2023
-*Please make sure the .doc format is 97-2003 document !! Newer .docx file type cannot save macros without attaching a containing template
+*Please make sure the .doc format is 97-2003 document !! 
+Newer .docx file type cannot save macros without attaching a containing template
 
 What does this script do?
 1. It attempts to get your IP address (with VPN tunneling interface tun0 prioritized)
