@@ -1,7 +1,7 @@
 # This python executable file serves as a tool that splits encoded base64 strings into smaller chunks of 50
 # characters and concatenate them into variables to be pasted onto msoffice.
 # Created by windyforce, on 6th November 2023.
-# This is purely for educational and testing purposes. Author is not resposible for any misuse of this script.
+# This is purely for educational and testing purposes. Author is not responsible for any misuse of this script.
 # PLEASE NOTE THAT WHEN YOU HOOK UP YOUR LISTENER, DEFAULT SET PORT IS 4444 OR FEEL FREE TO AMEND TO YOUR LIKING.
 import netifaces as ni
 import base64
